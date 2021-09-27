@@ -1,0 +1,24 @@
+.pics-div{
+    size: 30px;
+}
+
+.div-inline{
+    display: inline-block;
+}
+
+.intro-div{
+    margin-top: 21px;
+    background-color: beige;
+}
+
+.skills-div{
+    background-color: bisque;
+}
+
+.experience-div{
+    background-color: #FCCBCB;
+}
+
+.text-font{
+    font-family: cursive;
+}
