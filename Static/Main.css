@@ -13,6 +13,7 @@
 
 .skills-div{
     background-color: bisque;
+    margin-bottom: 1%;
 }
 
 .experience-div{
@@ -39,4 +40,9 @@ footer{
 .copy-footer-div{
     padding-top: 1%;
     padding-bottom: 1%;
+}
+
+.skills-span{
+    background-color: #02A0BD;
+    color: white;
 }
